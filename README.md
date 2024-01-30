@@ -1,8 +1,8 @@
-# Pseudomonas pseudoalcaligenes CECT 5344 Genome-scale Metabolic Model 
+# *Pseudomonas pseudoalcaligenes* CECT 5344 Genome-scale Metabolic Model 
 
 ## Description
 
-Repository to store the P. pseudoalcaligenes CECT 5344 GEM
+Repository to store the *P. pseudoalcaligenes* CECT 5344 GEM
 
 
 ## Citation
