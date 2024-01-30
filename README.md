@@ -7,6 +7,10 @@ Repository to store the P. pseudoalcaligenes CECT 5344 GEM
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/747809742.svg)](https://zenodo.org/doi/10.5281/zenodo.10581478)
+
+SBGlab. (2024). SBGlab/Pseudomonas_pseudoalcaligenes_CECT_5344_GEM: Version 1.1 (v1.1). Zenodo. https://doi.org/10.5281/zenodo.10581479
+
 
 ## Keywords
 cyanide; metabolism; genome-scale metabolic model; Pseudomonas
